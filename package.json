@@ -1,0 +1,12 @@
+{
+  "name": "think-tank",
+  "version": "1.0.0",
+  "description": "Painel Multiagentes Think Tank",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
